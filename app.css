@@ -1,0 +1,60 @@
+h1{
+  font-family: "Poppins", sans-serif;
+  font-size: 6vw;
+  color: #292929;
+  text-align: center;
+}
+header {
+  background-color: #54D6D1;
+  background-image: url("aesthetic-dog.jpg");
+  padding: 20vw 2em 1vw 2em;
+  background-position: center right;
+  background-size: cover;
+}
+.p1 {
+  font-family: "Alegreya Sans", sans-serif;
+  font-size: 17px;
+}
+h2 {
+  font-size: 40px;
+  font-family: "Kavivanar", cursive;
+
+}
+.Name {
+  font-size: 20px;
+}
+ #misty {
+  background-image: url("sleepycat.jpg") !important;
+  background-color: #54D6D1;
+  padding: 20vw 2em 1vw 2em;
+  background-position: center right;
+  background-size: cover;
+}
+#cameron {
+  background-image: url("white-cat.jpg") !important;
+  background-color: #54D6D1;
+  padding: 20vw 2em 1vw 2em;
+  background-position: center right;
+  background-size: cover;
+}
+#simba {
+  background-image: url("orangecat.jpg") !important;
+  background-color: #54D6D1;
+  padding: 20vw 2em 1vw 2em;
+  background-position: center right;
+  background-size: cover;
+}
+#smokey {
+  background-image: url("dark-cat.jpg") !important;
+  background-color: #54D6D1;
+  padding: 20vw 2em 1vw 2em;
+  background-position: center right;
+  background-size: cover;
+}
+#buddy {
+  background-image: url("puppy.jpg") !important;
+  background-color: #54D6D1;
+  padding: 20vw 2em 1vw 2em;
+  background-position: center right;
+  background-size: cover;
+}
